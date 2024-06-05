@@ -1,4 +1,4 @@
-Round,User,Received,Sent
+Round,User,Sent,Received
 1,Alice,0,1
 1,TheClinic,1,1
 1,Eve,1,2
